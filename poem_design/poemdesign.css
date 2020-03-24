@@ -1,0 +1,70 @@
+body {
+    background-color: #2785C7;
+}
+
+h1 {
+    font-family: rift, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: white;
+    font-size: 100px;
+    margin-top: 300px;
+    text-align: center;
+
+}
+
+p {
+    font-family: 'Courier Prime', monospace;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 700px;
+    margin-top: -4600px;
+    text-align: left;
+}
+
+h2{
+    font-family: 'Courier Prime', monospace;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    margin-right: 500px;
+    margin-top: 200px;
+    text-align: right;
+    
+}
+
+.square {
+    margin: -400px;
+    margin-left: 40px;
+    margin-right: 40px;
+    height: 5000px;
+    width: 2000px;
+    outline: 5px white solid;
+}
+
+#Layer_1{
+background: url("fallback.png") no-repeat center;
+background-image: url("image.svg");
+background-size: contain;
+margin-left: 200px; 
+margin-top: -400px;
+opacity: 0.2;
+height: 200px;
+width: 200px;
+}
+
+#content{
+    margin-top:-3000px;
+    background-color: transparent;
+    background-image:       linear-gradient(0deg, transparent 24%, rgba(255, 255, 255, .05) 25%, rgba(255, 255, 255, .05) 26%, transparent 27%, transparent 74%, rgba(255, 255, 255, .05) 75%, rgba(255, 255, 255, .05) 76%, transparent 77%, transparent), linear-gradient(90deg, transparent 24%, rgba(255, 255, 255, .05) 25%, rgba(255, 255, 255, .05) 26%, transparent 27%, transparent 74%, rgba(255, 255, 255, .05) 75%, rgba(255, 255, 255, .05) 76%, transparent 77%, transparent);
+  height:3000px;
+  background-size:100px 100px;
+}
+#grid{
+    margin-top:0px;
+    background-color: transparent;
+    background-image:       linear-gradient(0deg, transparent 24%, rgba(255, 255, 255, .05) 25%, rgba(255, 255, 255, .05) 26%, transparent 27%, transparent 74%, rgba(255, 255, 255, .05) 75%, rgba(255, 255, 255, .05) 76%, transparent 77%, transparent), linear-gradient(90deg, transparent 24%, rgba(255, 255, 255, .05) 25%, rgba(255, 255, 255, .05) 26%, transparent 27%, transparent 74%, rgba(255, 255, 255, .05) 75%, rgba(255, 255, 255, .05) 76%, transparent 77%, transparent);
+  height:3000px;
+  background-size:100px 100px;
+}

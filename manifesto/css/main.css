@@ -1,0 +1,39 @@
+h1 {
+    font-family: blenny, sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    color:#E1CE7A;
+    border: 3px solid black;
+    border: double;
+    max-width: 700px;
+    text-align: center;
+        margin:0 auto;
+    margin-top:30px
+}
+
+#lineOne {
+    color: white;
+    text-align: center
+}
+
+#lineTwo {
+    font-size: 20px;
+    max-width: 700px;
+
+}
+
+#lineThree {
+    font-family: ;
+    font-size: 30px;
+}
+
+body {
+    background: #424B54;
+    height: 90vh;
+    border: 3px solid black;
+    padding: 20px;
+}
+
+#image{
+    align align-content: center
+}

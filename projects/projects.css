@@ -1,0 +1,96 @@
+body {
+    background-color: black;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    font-family: rift, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: white;
+    font-size: 100px;
+    margin-top: 100px;
+    text-align: center;
+
+
+}
+
+h3 {
+    color: white
+}
+
+p {
+    color: white
+}
+
+.webboxes {
+    display: inline-block;
+    background-color: antiquewhite;
+    height: 150px;
+    width: 150px;
+    padding: 50px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 200px;
+    /*position: relative;*/
+    font-family: rift, sans-serif;
+    font-size: 50px;
+    font-weight: 300;
+    margin: auto;
+    margin-top: 50px;
+    text-decoration: none;
+
+}
+
+#border {
+    margin: auto;
+    background-color: white;
+    height: 5px;
+    width: 800px;
+}
+
+#fixed {
+    display: flex;
+    justify-content: center;
+}
+
+a:link,
+a:visited {
+    color: black;
+}
+
+a:hover,
+a:active {
+    background-color: white;
+    color: black;
+}
+
+.webboxes2 {
+    display: block;
+    background-color: antiquewhite;
+    height: 150px;
+    width: 150px;
+    padding: 50px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 200px;
+    position: relative;
+    font-family: rift, sans-serif;
+    font-size: 50px;
+    font-weight: 300;
+    margin: auto;
+    margin-top: 50px;
+    text-decoration: none;
+
+}
+
+a:link, a:visited {
+    color: white;
+    text-decoration: none;
+}
+a:hover, a:active{
+    background-color: white;
+    color: black;
+}

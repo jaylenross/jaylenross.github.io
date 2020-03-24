@@ -1,0 +1,57 @@
+h2 {
+    font-family: 'Passion One', cursive;
+    text-transform: uppercase;
+    word-spacing: 12px;
+    letter-spacing: 8px;
+    color: #84AF9D;
+    margin-left: 150px;
+    margin-top: 170px
+}
+
+h3 {
+    font-family: 'Amiko', sans-serif;
+    font-size: 25px;
+    margin-top: 50px;
+    margin-left: 150px;
+}
+
+h3 {
+    font-family: 'Amiko', sans-serif;
+    font-size: 30px;
+    margin-top: 50px;
+    margin-left: 150px;
+}
+
+p {
+    font-family: 'Vidaloka', serif;
+    font-size: 30px;
+    margin-top: 30px;
+    margin-left: 150px;
+    letter-spacing: 2px;
+}
+
+h4 {
+    font-family: 'Amiko', sans-serif;
+    font-size: 15px;
+    margin-top: 30px;
+    margin-left: 150px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+}
+
+#divider {
+    margin-left: 150px;
+    width: 740px;
+    background-color: black;
+    height: 2px;
+    display: inline-block;
+}
+
+#square {
+
+    width: 11px;
+    background-color: #1D3D30;
+    height: 11px;
+    display: inline-block;
+    margin-left: -10px;
+}
