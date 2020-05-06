@@ -1,0 +1,141 @@
+body{
+    background-color: #FFFFFF;
+}
+
+.rectangle {
+    height: 400px;
+    width: 100%;
+    background-color: #d6b68c;
+    z-index: 1;
+}
+
+h1{
+    position: relative;
+    
+    top: -300px;
+    font-family: rift, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 100px;
+    left: 500px;
+    color: white;
+    z-index: 2;
+}
+
+.clock{
+    position: relative;
+    border-radius: 25px;
+    top:-100px;
+    left:300px;
+    height:100px;
+    width: 500px;
+    background-color: #ede6e3;
+    line-height: 25px;
+    display: inline-block;
+    font-family: rift, sans-serif;
+    font-size: 30px;
+    vertical-align: middle;
+    font-weight: 300;
+    text-align: center;
+    margin: 15px;
+}
+
+.drawingapp{
+    position: relative;
+    border-radius: 25px;
+    top:-100px;
+    left:300px;
+    height:100px;
+    width: 500px;
+    background-color: #ede6e3;
+    line-height: 25px;
+    display: inline-block;
+    font-family: rift, sans-serif;
+    font-size: 30px;
+    vertical-align: middle;
+    font-weight: 300;
+    text-align: center;
+    margin: 15px;
+}
+
+.infographic{
+    position: relative;
+    border-radius: 25px;
+    top:-100px;
+    left:300px;
+    height:100px;
+    width: 500px;
+    background-color: #ede6e3;
+    line-height: 25px;
+    display: inline-block;
+    font-family: rift, sans-serif;
+    font-size: 30px;
+    vertical-align: middle;
+    font-weight: 300;
+    text-align: center;
+    margin: 15px;
+}
+
+.animation{
+    position: relative;
+    border-radius: 25px;
+    top:-100px;
+    left:300px;
+    height:100px;
+    width: 500px;
+    background-color: #ede6e3;
+    line-height: 25px;
+    display: inline-block;
+    font-family: rift, sans-serif;
+    font-size: 30px;
+    vertical-align: middle;
+    font-weight: 300;
+    text-align: center;
+    margin: 15px;
+}
+
+.sketches{
+    position: relative;
+    border-radius: 25px;
+    top:-100px;
+    left:300px;
+    height:100px;
+    width: 500px;
+    background-color: #ede6e3;
+    line-height: 25px;
+    display: inline-block;
+    font-family: rift, sans-serif;
+    font-size: 30px;
+    vertical-align: middle;
+    font-weight: 300;
+    text-align: center;
+    margin: 15px;
+}
+
+.datavis{
+    position: relative;
+    border-radius: 25px;
+    top:-100px;
+    left:300px;
+    height:100px;
+    width: 500px;
+    background-color: #ede6e3;
+    line-height: 25px;
+    display: inline-block;
+    font-family: rift, sans-serif;
+    font-size: 30px;
+    vertical-align: middle;
+    font-weight: 300;
+    text-align: center;
+    margin: 15px;
+}
+
+
+a:link, a:visited {
+    color: white;
+    text-decoration: none;
+}
+a:hover, a:active{
+    background-color: black;
+    color: white;
+}
